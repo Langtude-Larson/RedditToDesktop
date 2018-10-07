@@ -1,0 +1,10 @@
+C:\Users\Yazz\source\repos\RedditDesktop\RedditDesktop\obj\Debug\RedditDesktop.csprojAssemblyReference.cache
+C:\Users\Yazz\source\repos\RedditDesktop\RedditDesktop\obj\Debug\RedditDesktop.Form1.resources
+C:\Users\Yazz\source\repos\RedditDesktop\RedditDesktop\obj\Debug\RedditDesktop.Properties.Resources.resources
+C:\Users\Yazz\source\repos\RedditDesktop\RedditDesktop\obj\Debug\RedditDesktop.csproj.GenerateResource.cache
+C:\Users\Yazz\source\repos\RedditDesktop\RedditDesktop\obj\Debug\RedditDesktop.csproj.CoreCompileInputs.cache
+C:\Users\Yazz\source\repos\RedditDesktop\RedditDesktop\bin\Debug\Reddit To Desktop.exe.config
+C:\Users\Yazz\source\repos\RedditDesktop\RedditDesktop\bin\Debug\Reddit To Desktop.exe
+C:\Users\Yazz\source\repos\RedditDesktop\RedditDesktop\bin\Debug\Reddit To Desktop.pdb
+C:\Users\Yazz\source\repos\RedditDesktop\RedditDesktop\obj\Debug\Reddit To Desktop.exe
+C:\Users\Yazz\source\repos\RedditDesktop\RedditDesktop\obj\Debug\Reddit To Desktop.pdb

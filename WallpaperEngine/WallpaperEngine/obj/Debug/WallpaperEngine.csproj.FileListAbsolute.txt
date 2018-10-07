@@ -1,0 +1,7 @@
+C:\Users\Yazz\source\repos\WallpaperEngine\WallpaperEngine\bin\Debug\WallpaperEngine.exe.config
+C:\Users\Yazz\source\repos\WallpaperEngine\WallpaperEngine\bin\Debug\WallpaperEngine.exe
+C:\Users\Yazz\source\repos\WallpaperEngine\WallpaperEngine\bin\Debug\WallpaperEngine.pdb
+C:\Users\Yazz\source\repos\WallpaperEngine\WallpaperEngine\obj\Debug\WallpaperEngine.csprojAssemblyReference.cache
+C:\Users\Yazz\source\repos\WallpaperEngine\WallpaperEngine\obj\Debug\WallpaperEngine.csproj.CoreCompileInputs.cache
+C:\Users\Yazz\source\repos\WallpaperEngine\WallpaperEngine\obj\Debug\WallpaperEngine.exe
+C:\Users\Yazz\source\repos\WallpaperEngine\WallpaperEngine\obj\Debug\WallpaperEngine.pdb
