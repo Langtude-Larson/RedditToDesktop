@@ -1,4 +1,4 @@
 # RedditToDesktop
 - Unzip to whereever
-- Open RedditToDesktop.exe
-- Set settings, save and start
+[RedditDesktop] is the winforms with settings
+[WallpaperEngine] is the background process (yeah, i know it's a dumb name)
